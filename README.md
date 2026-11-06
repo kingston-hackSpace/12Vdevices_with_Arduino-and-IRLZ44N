@@ -50,7 +50,7 @@ You will need:
 
 - 220ohms resistor (protects the Arduino signal pin)
 
-- 1K resistor (grounds MOSFET's Gate to reduce electrical noise)
+- 10K resistor (grounds MOSFET's Gate to reduce electrical noise)
 
 ---
 ## DIAGRAM
