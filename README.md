@@ -10,7 +10,7 @@ This tutorial uses an **IRLZ44N logic-level MOSFET**.
 
 - USING 12V DEVICES 
 
-Arduino pins can provide up to 5V signals, which is not enough to ***power*** a 12V device. However, you can still use Arduino to ***control*** a 12V device by using additional electronic components and a 12V power supply. More info below. 
+Arduino UNO pins can provide up to 5V signals, which is not enough to ***power*** a 12V device. However, you can still use Arduino to ***control*** a 12V device by using additional electronic components and a 12V power supply. More info below. 
 
 *NOTE: Arduino **VIN pin** stands for "Voltage-IN", supporting up to 12V. However, this is not an output pin, it works only as an input alternative board powering pin.* 
 
